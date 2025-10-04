@@ -1,0 +1,742 @@
+/* #Box{
+    color: blue;
+}
+
+.Heading{
+    color: red;
+}
+
+button{
+    background-color: green;
+}
+
+p{
+    text-align: right;
+} */
+
+/* h1{
+    text-align: center;
+    text-decoration: Red wavy underline;
+    text-decoration: blue dotted underline;
+    /* text-decoration: line-through; */
+    /* text-decoration: Overline; */
+    /* text-decoration: none; */
+/* h1 } */
+/* 
+#H1 {
+    font-weight: normal;
+}
+
+#H2{
+    font-weight:bold ;
+}
+
+#H3{
+    font-weight:bolder;
+}
+
+#H4{
+    font-weight:lighter ;
+} */
+/* 
+p{
+    text-align: center;
+}
+
+a{
+    text-decoration:none ;
+}
+
+#One{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+#Two{
+    font-family: fantasy;
+}
+
+
+
+#One{
+    font-size: 25px;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+#Three{
+    font-size: 10Px; ;
+} */
+
+
+/* 
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#Outer{
+    font-size: 25px;
+}
+
+#Inner{
+    font-size: 10px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Box */
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: pink; */
+    
+    /* border-width: 7px;
+    border-style: dotted;
+    border-color: yellow; */
+    /* border: 2px solid yellow;
+    text-align: right; */
+
+    /* border-radius: 15%; */
+
+    /* padding-right: 25px; 
+    padding-bottom: 25px ; */
+
+    /* padding: 1px 4px 6px 8px;
+
+    margin-top: 50px;
+
+    margin: 25px;
+} */
+
+/* h1{
+    height: 50px;
+    width: 150px;
+    background-color: Pink;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: blueviolet;
+} */
+
+/* .Back{
+    background-color: Pink;
+    height: 500px;
+    width: 100px;
+} */
+
+
+
+
+/* Creting Signal */
+/* div{
+    height: 500px;
+    width: 100px;
+    background-color: pink;
+    border: 100px;
+}
+
+.Red{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.Yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.Green{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+} */
+
+
+
+/* Amazon Activity */
+/* *{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#Navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+
+button{
+    background-color: #f08804;
+}
+
+
+#Logo{
+    color: #f08804;
+    font-size: 25px;
+}
+
+
+a{
+    margin-right: 190px;
+} */
+
+
+
+
+/* 
+div{
+    background-color: pink;
+    display: inline;
+}
+
+button{
+    display: block;
+} */
+
+
+
+/* 
+div{
+    height: 100px;
+    width: 100px;
+    margin:25px ;
+    padding:25px ;
+    display: inline;
+    display: inline-block;
+} */
+
+
+/* Display --> In Display We Can Remove That Element With That Space */
+/* Visibility--> But In Visibility We Can Remove The Element But Not Remove The Space  */
+/* #Box2{
+    display: none;
+    visibility: None;
+} */
+
+
+
+/* Practice 4 */
+/* 
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#Navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+
+button{
+    background-color: #f08804;
+}
+
+
+#Logo{
+    color: #f08804;
+    font-size: 25px;
+}
+
+
+a{
+    margin-right: 190px;
+} 
+
+
+
+.ContentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+
+}
+
+#content{
+    height: 500px;
+
+}
+
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+} */
+
+
+
+/*  Level 3 */
+
+/* % */
+/* .Boxx1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+.Boxx2{
+    height: 50px; */
+    /* width: 50px; */
+    /* width: 30%;
+    background-color: yellow;
+    margin-left:10% ;
+}
+ */
+
+
+/* --------------------------------------------------------------------------------------------------------------------------------- */
+
+/* Em  Two Times Of Parent Font Size*/
+/* .Bo1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 10px
+    ;
+}
+
+.Bo2{
+    height: 50px;
+    width: 50px;
+    width: 30%;
+    background-color: yellow;
+    margin-left:10% ;
+    font: size 2em; 
+     }  */
+
+     
+
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+
+/* Position */
+/* 
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border:2px solid black;
+    display: inline-block;
+
+}
+
+#Box1{
+    position: static;
+}
+
+#Box2{
+    position: relative;
+    top: 50px;
+    left: 10px;
+}
+
+#Box3{
+    position: absolute;
+    top: 770px;
+
+}
+
+#Box4{
+    position: fixed;
+    right: 10px;
+    bottom: 20px;
+    top: 0px;
+}
+
+#Box5{
+    position: sticky;
+    Top: 0px;
+   top: 100px;
+
+} */
+/* Box5 Is Fixed After If Come That Postion Because We Used Sticky  */
+
+
+/* --------------------------------------------------------------------------------------------------------------------------- */
+
+/* Images */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border:2px solid black;
+    display: inline-block;
+
+}
+
+#Box1{
+    background-image: url("Cat_Photo.jpg");
+    background-size: cover;
+}
+
+
+#Box2{
+    background-image: url("Cat_Photo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+} */
+
+
+
+
+/* Practice 5 */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color:antiquewhite;
+    background-image: url("Nature_Photo.jpg");
+    background-size: cover;
+    color: black;
+    position:fixed ;
+    right: 0px;
+    top: 50px;
+
+}
+ */
+
+
+ /* ------------------------------------------------------------------------------------------ */
+
+
+ /* Level 5 Flex */
+/* 
+body{
+    text-align: center;
+} 
+
+div{
+    height:100px;
+    width: 150px;
+    display: inline-block;
+    border: 2px solid black; 
+}
+
+.Container{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    justify-content: space-between;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: start;
+    align-content: center;
+  
+}
+
+#Box1{
+    background-color: aquamarine;
+}
+
+
+#Box2{
+    background-color: rgb(127, 157, 255);
+    height: 200px;
+    flex-shrink: 0px;
+    flex-grow: 1s;
+}
+
+#Box3{
+    background-color: rgb(234, 255, 127);
+}
+
+#Box4{
+    background-color: rgb(108, 6, 21);
+    align-self: flex-end;
+}
+ */
+
+ /* =----------------------------------------------------------------------------------------------------------------- */
+
+
+ /* Practice Set 6 */
+
+/*  
+.Navbar{
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+li{
+    list-style-type: None;
+    background-color: pink;
+}
+
+
+
+.Outer{
+    height: 400px;
+    width: 400px;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Inner{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(183, 106, 12);
+    
+}
+ */
+
+ /* --------------------------------------------------------------------------------------- */
+
+ /* Media */
+ /* div{
+    height: 50px;
+    width: 50px;
+    background-color: Pink;
+
+ }
+
+ @media(width:700px){
+   div{
+background-color: brown;
+    }
+ }
+
+
+
+ @media(max_width:700px) {
+    Div{
+        background-color: gray;
+    }
+ }
+
+
+ @media(Min-Width:200px) and (Max-Width:300px){
+    Div{
+        background-color: yellow;
+    }
+ }
+ */
+
+
+
+ /* Practice Set 7 */
+/* 
+ div{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+ }
+
+@media(Max-Width:300px){
+    Div{
+        background-color: rgba(56, 143, 82, 0.929);
+    }
+} 
+
+
+@media(Max-Width:300px) And (Max-Width:400px){
+    Div{
+        background-color: Pink;
+}
+}
+
+
+@media(Max-Width:400px) And (Max-Width:600px){
+Div{
+    background-color: rgb(77, 4, 16);
+}
+}
+
+
+@media(Min-Width:600px) {
+    Div{
+        background-color: Pink;
+    }
+} */
+
+
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/*  Level 5 */
+/* div{
+    height: 150px;
+    width: 150px;
+    background-color: brown;
+    border: 2px solid black;
+    transition-property:all ;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 1s;
+}
+
+div:hover{
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+}
+
+
+div:active{
+    background-color: darkturquoise;
+    color: black;
+} */
+
+
+/* ------------------------------------------------------ */
+
+/*  CSS Transform */
+
+/* div{
+    height: 150px;
+    width: 150px;
+    background-color: brown;
+    border: 2px solid black;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    transform: rotateY(180deg);
+    Transform:Scale(2)
+} */
+/* 
+div:hover{
+   transform: scale(5);
+} */
+
+
+
+/*  Translate  And Skew*/
+/* 
+ div{
+    height: 150px;
+    width: 150px;
+    background-color: brown;
+    border: 2px solid black;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    transition: all 2s ease-in;
+} 
+
+div:hover{
+   transform: translate(-50px);
+   transform: translateY(-50px);
+   transform: skew(45deg);
+   transform: rotateY(180deg);
+   transform: scale(5);
+}  */
+
+
+/*  Animation */
+
+ /* div{
+    height: 150px;
+    width: 150px;
+    border-radius: 25px;
+    background-color: brown;
+    border: 2px solid black;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    animation-name: ColorAnimate;
+    animation-duration: 0s;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+ }
+
+ @keyframes ColorAnimate{
+    From {background-color:  brown;}
+    To{ background-color: rgb(76, 0, 255);}
+
+ }
+
+ @keyframes ColorAnimate{
+    From {
+        left: 0px;
+        background-color:  brown;
+    }
+
+    To{ 
+        left: 200px;
+        background-color: rgb(76, 0, 255);
+        color: white;
+    }
+
+ }
+
+
+  @keyframes ColorAnimate{
+   0% {
+        left: 0px;
+        background-color:  brown;
+    }
+
+    50%{
+        background-color: yellow;
+    }
+
+    100%{ 
+        left: 200px;
+        background-color: rgb(76, 0, 255);
+        color: white;
+    }
+
+ }
+
+  */
+
+  /* ------------------------------------------------------------------------------------------------------------------ */
+
+/*  Practice Set 8 */
+/* .Loader{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 10px solid black;
+    border-top:10px solid brown;
+    animation : SpinAnimation 3s ease-in 0s infinite normal;
+
+
+
+}
+
+@keyframes SpinAnimation{
+    From{
+        transform: rotate(0);
+    }
+    To{
+        transform: rotate(360deg);
+    }
+} */
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------- */
+
